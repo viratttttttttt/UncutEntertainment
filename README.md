@@ -1,3 +1,3 @@
 
-		<h1><body>	<img src="C:\Users\KIIT\Pictures\unCUTEofficiallogo.png" style="width:200px">
-		</body><b>unCUT-ENTERTAINMENT</b></h1>
+		<h1>	<img src="C:\Users\KIIT\Pictures\unCUTEofficiallogo.png" style="width:200px">
+		<b>unCUT-ENTERTAINMENT</b></h1>
