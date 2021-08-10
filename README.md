@@ -1,148 +1,170 @@
+<!DOCTYPE html>
 <html>
 <head>
-	<title>unCut Entertainment|Taking Digital Marketing to next level</TITLE>
-	<link rel="stylesheet" href="style.css">
-	
-	
-	<header>
-	
-	   <div class="header-right">
-    <a href="uncut.html">About </a>
-	<a href="uncutregistration.html"> Connect</a>
-	<a href="file:///C:/Users/KIIT/Documents/A%20Uncut%20Ent/lab_test.html">Frame</a>
-   </div>
-	<style>
-	.header-right{text-align:right; font-family:times;}
-	</style>
-		<h1><body>	<img src="C:\Users\KIIT\Pictures\unCUTEofficiallogo.png" style="width:200px">
-		</body><b>unCUT-ENTERTAINMENT</b></h1>
-		<p  class="italic">______________________________________    Take the first step towards an innovative content for your brand. Reach out to us.</p>
-	<style>	
-	p.italic {
-			font-style: italic;
-			font-size: 15px;
-			
-		}
+<style>
+* {
+  box-sizing: border-box;
+}
 
+body {
+  font-family:;
+  padding: 10px;
+  background: #f1f1f1;
+}
+
+/* Header/Blog Title */
+.header {
+  padding: 30px;
+  text-align: center;
+  background: white;
+}
+
+.header h1 {
+  font-size: 50px;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Create two unequal columns that floats next to each other */
+/* Left column */
+.leftcolumn {   
+  float: left;
+  width: 75%;
+}
+
+/* Right column */
+.rightcolumn {
+  float: left;
+  width: 25%;
+  background-color: #f1f1f1;
+  padding-left: 20px;
+}
+
+/* Fake image */
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+
+/* Add a card effect for articles */
+.card {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Footer */
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 20px;
+}
+
+/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn {   
+    width: 100%;
+    padding: 0;
+  }
+}
+
+/* Responsive layout - when the screen is less than 400px wide, make the navigation links stack on top of each other instead of next to each other */
+@media screen and (max-width: 400px) {
+  .topnav a {
+    float: none;
+    width: 100%;
+  }
+}
 </style>
+</head>
+<style>
+h5 {
+  letter-spacing: 10px;
+}
 </style>
+<body>
 
-	</header>
-	
-	
-	<nav>
-		<p></p>
-		<h1><b>unCUT-Entertainment</b></h1>
-	
-		</body>
-		<u1>	
-			<img src="C:\Users\KIIT\Pictures\unCUTEofficiallogo.png" style="width:200px"><br><br>
-			<p2 class="large"><b>LET’S CONNECT!</b></p2>
-			<li><b><a href="uncutregistration.html" ><span>*Registration Form*</span></a></b></li>
-			<li><b>E-mail: uncutentt@gmail.com</b></li>
-			<li><b>Phone: 5757557575</b></li>
-			<li><b>Address:21,Bhubaneshwar</b></li><br><br>
-		<style>	p2.large {font-size: 22px;}</style>	
-			
-		</u1>
-			<body>
-			<p3 style="font-size:22px; "><B>FOUNDER</B></p3><br><br>
-		    	<img src="C:\Users\KIIT\Pictures\satyajeet.JPEG" style="width:160px">
-			<P style="color:maroon;"><B>SATYAJEET BEHERA</B></P>
-			</body>
-			
+<div class="header">
+  <h1>FRESHLY BREWED</h1>
+  <p><b>Ready to start something Fresh ?</b></p>
+ <marquee width="80%" direction="right" height="80px"> <h5><b>
+Fresh!    Fresh!     Fresh!      Fresh!        Fresh!        Fresh!
+</b></h5></marquee>
+</div>
 
-	</nav>
-	
-	
-	<main>
-		<section>
-			<h1  id="unique">Who are we?</h1>
-			
-			<p style="font-size:20px; "><b><span class="blue">A bunch of changemakers in their early twenties who decided to change the way brands happen.</span></b> </p>
-			
-			<p></p>
-			
-			<h2>Why unCUT-E ?</h2>
-			 
-			<p><b> unCUT-E is a 360° creative digital media organisation that unifies Talent Management, Video Production, Social Media Management and Influencer Marketing under one roof. Conceptualised by Satyajeet Behera, we are an ensemble set of young creators who specialise in all things digital.
+<div class="topnav">
+  <a href="uncut.html">Home</a>
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+  <a href="#" style="float:right">Link</a>
+</div>
 
-                You have a brand? </b></p>
-			
-			<p>Let us tell your story and leave it to us for a seamless execution right from the start.</p>
-		</section>
-		
-		<section>
-		<b>
-		<h2>It's time to transform from Digital Markrting to Digital <span style="color:Red;">SMAR</span>ke<span style="color:Red;">T</span>ing.</h2>
-		<p><span style="color:red;">S</span>pecific</p>
-		<p><span style="color:red;">M</span>easurable</p>
-		<p><span style="color:red;">A</span>chieveable</p>
-		<p><span style="color:red;">R</span>ealistic</p>
-		<p><span style="color:red;">T</span>imely</p>
-		</b>
-		</section>
-		
-		<section>
-			<h1>unCUT-E - As a 360° creative media organisation, we ensure that your brand has it all to catch eyeballs</h1>
-		
-			<h2>INFLUENCER MARKETING</h2>
-			<p><b>Redefining digital marketing with the influencers that help your brand grow</b></p>
-			<h2>SOCIAL MEDIA MARKETING</h2>
-			<p><b>Digital media trends across all social media platforms, leave it to us to break the internet.</b></p>
-			<h2> DIGITAL ADVERTISEMENT</h2>	
-			<p><b>Shaping emerging brands while envisioning their digital growth with potential brand placements.</b></p>
-			<h2>VIDEO PRODUCTION</h2>
-			<p><b>We tell stories that your audience needs to hear and see.</b> </p>
-		<body>
-				<video controls>
-				<source src="C:\Users\KIIT\Pictures\WhatsApp Video.mp4" type="video/mp4"  controls loop style="width:5px" >
-				</video>
-		</body>
-		</section>		
-		
-		<section>
-			<p></p><br><br>
-			<h2>WHAT BREWS IN OUR BOARDROOMS?</h2>
-			<p><b>We are a bunch of young, passionate trendsetters.</b></p>
-			<p>So when you tap onto the digital universe with us, we ensure you are heard without getting lost in the echo of trends.</p>
-			<body> <img src="C:\Users\KIIT\Pictures\Untitled Export\SCENERY().jpg"style="width:200px"><img src="C:\Users\KIIT\Pictures\Untitled Export\SCENERY().jpg"style="width:200px"><img src="C:\Users\KIIT\Pictures\Untitled Export\SCENERY().jpg"style="width:200px"><img src="C:\Users\KIIT\Pictures\Untitled Export\SCENERY().jpg"style="width:200px"> </body>
-		    <br><br><br><br>
-			<h1 class="glow">UNCUT-ENTERTAINMENT</h1>
-		</section>
-	</main>
-<style>	
-	.glow {
-			  font-size: 40px;
-			  color: #fff;
-			  text-align: center;
-			  -webkit-animation: glow 1s ease-in-out infinite alternate;
-			  -moz-animation: glow 1s ease-in-out infinite alternate;
-			  animation: glow 1s ease-in-out infinite alternate;
-          }
-	@-webkit-keyframes glow {
-	  from {
-		text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
-	  }
-	  
-	  to {
-		text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
-	  }
-	}
-</style>
-
-
-	
-	<footer>
-		<body >	<img src="C:\Users\KIIT\Pictures\unCUTEofficiallogo.png" style="width:150px"></body>
-		<h2>LET'S CONNECT</h2>
-
-
-		<p>When there are great ideas at stake, it’s always a good idea to share. Tell us how can we make it happen for you!</p>
-		<p><b>Fill the form< <a href="uncutregistration.html" ><span>Registration Form</span></a> >Fill the form </b></p><br>
-		<p><b>E-mail:<span style="color:Tomato;"> uncutentt@gmail.com</span></b></p>
-		<a href="https://www.instagram.com/uncutentertainment/"><img src="C:\Users\KIIT\Pictures\instagram-logofooter.jpg" style="width:30px"><span class="black">unCUT-E.ig</span></a>
-		<p>Copyright &copy; 2020, unCut-Entertainment</p>
-	</footer>
-
+<div class="row">
+  <div class="leftcolumn">
+    <div class="card">
+      <h2>TITLE HEADING</h2>
+      <h4>Title description, Jan 10, 2021</h4>
+      <div class="fakeimg" style="height:200px;">Image</div>
+      <p>Some text..</p>
+      <p>Paragraph Freshly Brewed Paragraph Freshly Brewed Paragraph Freshly Brewed Paragraph Freshly Brewed Paragraph Freshly Brewed Paragraph Freshly Brewed</p>
+    </div>
+    <div class="card">
+      <h2>TITLE HEADING</h2>
+      <h4>Title description, Jan 10, 2021</h4>
+      <div class="fakeimg" style="height:200px;">Image</div>
+      <p>Some text..</p>
+      <p>Paragraph Freshly Brewed Paragraph Freshly Brewed Paragraph Freshly Brewed Paragraph Freshly Brewed Paragraph Freshly Brewed Paragraph Freshly Brewed</p>
+    </div>
+  </div>
+  <div class="rightcolumn">
+    <div class="card">
+      <h2>About Me</h2>
+      <div class="fakeimg" style="height:100px;">Image</div>
+      <p>Paragraph Freshly Brewed Paragraph Freshly Brewed </p>
+    </div>
+    <div class="card">
+      <h3>Popular Post</h3>
+      <div class="fakeimg"><p>Image</p></div>
+      <div class="fakeimg"><p>Image</p></div>
+      <div class="fakeimg"><p>Image</p></div>
+    </div>
+    <div class="card">
+      <h3>Follow Us</h3>
+      <p>Some text..</p>
+    </div>
+  </div>
+</div>
+<div class="footer">
+  <h2>Copyright &copy; 2020, Freshly Brewed</h2>
+</div>
+</body>
 </html>
